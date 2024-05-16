@@ -88,7 +88,7 @@ router.put('/:id', async (req, res) => {
   }
 });
 
-
+//test
 router.post('/favorites', async (req, res) => {
   
 const favoriteData = req.body;
